@@ -1,5 +1,12 @@
-# simple-icons package
+# Simple Icons
 
-A short description of your package.
+Atom package for better (but simple) file icons
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Installation
+Open **Settings** → **Install** and search for `simple-icons`.
+
+Alternatively, install through command-line:
+
+```sh
+$ apm install simple-icons
+```

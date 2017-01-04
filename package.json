@@ -2,8 +2,14 @@
   "name": "simple-icons",
   "main": "./lib/simple-icons",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "Atom package for better (but simple) file icons",
+  "keywords": [
+    "simple",
+    "icons",
+    "file-icons",
+    "tree-view",
+    "tabs"
+  ],
   "repository": "https://github.com/yuriihabrusiev/simple-icons",
   "homepage": "https://github.com/yuriihabrusiev/simple-icons",
   "bugs": "https://github.com/yuriihabrusiev/simple-icons/issues",
