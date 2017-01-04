@@ -1,0 +1,24 @@
+{
+  "name": "simple-icons",
+  "main": "./lib/simple-icons",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/yuriihabrusiev/simple-icons",
+  "homepage": "https://github.com/yuriihabrusiev/simple-icons",
+  "bugs": "https://github.com/yuriihabrusiev/simple-icons/issues",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.12.0 <2.0.0"
+  },
+  "providedServices": {
+    "atom.file-icons": {
+      "versions": {
+        "1.0.0": "provideSimpleIcons"
+      }
+    }
+  },
+  "dependencies": {
+    "fs-plus": "^2.9.3"
+  }
+}
