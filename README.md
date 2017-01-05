@@ -1,6 +1,6 @@
 # Simple Icons
 
-[Atom][atom] package for better (but simple) file icons.
+Minimalistic file icons provider for [Atom][atom].
 
 ## Installation
 Open **Settings** → **Install** and search for `simple-icons`.
@@ -17,12 +17,13 @@ I found [file-icons][file-icons] package very distracting and cluttered. So I ma
 
 ## Screenshot
 
-![screenshot](screenshot.png)
+![screenshot][screenshot]
 
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
+[screenshot]: https://raw.githubusercontent.com/yuriihabrusiev/simple-icons/master/screenshot.png
 [atom]: https://atom.io
 [octicons]: http://octicons.github.com/
 [services]: http://flight-manual.atom.io/behind-atom/sections/interacting-with-other-packages-via-services/

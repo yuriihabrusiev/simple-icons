@@ -1,5 +1,9 @@
 # Simple Icons Changelog
 
+## 0.1.2
+* Fix screenshot link in README
+* Change package description
+
 ## 0.1.1
 * Rename `Icon` to `File`
 * Add `database` icon
