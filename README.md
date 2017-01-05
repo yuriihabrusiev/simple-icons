@@ -10,3 +10,7 @@ Alternatively, install through command-line:
 ```sh
 $ apm install simple-icons
 ```
+
+## Screenshot
+
+![screenshot](screenshot.png)
