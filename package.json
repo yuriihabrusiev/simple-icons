@@ -15,7 +15,7 @@
   "bugs": "https://github.com/yuriihabrusiev/simple-icons/issues",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.12.0 <2.0.0"
+    "atom": ">=1.13.0 <2.0.0"
   },
   "providedServices": {
     "atom.file-icons": {
@@ -26,5 +26,15 @@
   },
   "dependencies": {
     "fs-plus": "^2.9.3"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "devDependencies": {
+    "xo": "^0.17.1"
+  },
+  "xo": {
+    "space": true,
+    "globals": ["describe", "it", "expect"]
   }
 }
