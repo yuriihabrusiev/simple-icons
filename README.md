@@ -2,6 +2,8 @@
 
 Minimalistic file icons provider for [Atom][atom].
 
+![screenshot][screenshot]
+
 ## Installation
 Open **Settings** → **Install** and search for `simple-icons`.
 
@@ -14,10 +16,6 @@ $ apm install simple-icons
 ## Description
 
 I found [file-icons][file-icons] package very distracting and cluttered. So I made my own file icons [provider][services]. It uses only [Octicons][octicons] and is based on Atom's [DefaultFileIcons][default-file-icons].
-
-## Screenshot
-
-![screenshot][screenshot]
 
 ## License
 
