@@ -40,4 +40,12 @@ describe('SimpleIconsService', () => {
   it('recognizes binary files', () => {
     expect(fileIcons.iconClassForPath('foo.exe')).toEqual('icon-file-binary');
   });
+
+  it('ignores undefined', () => {
+    expect(fileIcons.iconClassForPath(undefined)).toEqual('icon-file-text');
+  });
+
+  it('ignores null', () => {
+    expect(fileIcons.iconClassForPath(null)).toEqual('icon-file-text');
+  });
 });
