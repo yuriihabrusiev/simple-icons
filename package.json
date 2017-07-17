@@ -25,16 +25,20 @@
     }
   },
   "dependencies": {
-    "fs-plus": "^2.9.3"
+    "fs-plus": "^3.0.1"
   },
   "scripts": {
     "test": "xo"
   },
   "devDependencies": {
-    "xo": "^0.17.1"
+    "xo": "^0.18.2"
   },
   "xo": {
     "space": true,
-    "globals": ["describe", "it", "expect"]
+    "globals": [
+      "describe",
+      "it",
+      "expect"
+    ]
   }
 }
