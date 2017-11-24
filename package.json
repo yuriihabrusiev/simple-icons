@@ -27,18 +27,7 @@
   "dependencies": {
     "fs-plus": "^3.0.1"
   },
-  "scripts": {
-    "test": "xo"
-  },
   "devDependencies": {
-    "xo": "^0.18.2"
-  },
-  "xo": {
-    "space": true,
-    "globals": [
-      "describe",
-      "it",
-      "expect"
-    ]
+    "standard": "^10.0.3"
   }
 }
