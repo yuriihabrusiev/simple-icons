@@ -1,7 +1,7 @@
 {
   "name": "simple-icons",
   "main": "./lib/simple-icons",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Minimalistic file icons provider for Atom",
   "keywords": [
     "simple",
