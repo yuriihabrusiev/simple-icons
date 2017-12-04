@@ -1,5 +1,5 @@
-/* eslint-env jasmine */
 'use babel'
+/* eslint-env jasmine */
 
 import SimpleIconsService from '../lib/simple-icons-service'
 
@@ -23,7 +23,7 @@ describe('SimpleIconsService', () => {
   })
 
   it('recognizes Markdown files', () => {
-    expect(fileIcons.iconClassForPath('foo.md')).toEqual('icon-file-text')
+    expect(fileIcons.iconClassForPath('foo.md')).toEqual('icon-book')
   })
 
   it('recognizes compressed files', () => {

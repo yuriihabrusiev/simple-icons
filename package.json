@@ -25,7 +25,8 @@
     }
   },
   "dependencies": {
-    "fs-plus": "^3.0.1"
+    "fs-plus": "^3.0.1",
+    "load-json-file": "^4.0.0"
   },
   "devDependencies": {
     "standard": "^10.0.3"
